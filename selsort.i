@@ -1,10 +1,14 @@
-/*
- * Sort a list of integers using the Selection Sort algorithm.
- * The input parameters are an array of integers (Data) and
- * the number (N) of elements in the array. The array is sorted
- * in-place in ascending order.
- */
- 
+# 1 "selsort.c"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "selsort.c"
+
+
+
+
+
+
+
 void selsort(int Data[], int N)
 {
   int start, i, minix, temp;
